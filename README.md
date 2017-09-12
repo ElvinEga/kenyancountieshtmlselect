@@ -1,14 +1,13 @@
-#
-Kenya counties list select options
+# Kenya counties list select options #
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D7UD89SNB2GHY)
 
 This contains the list of counties in Kenya represented in a select option menu and json formart
 
-## Usage
+## Usage ##
 
 Copy and paste then edit the code to your project.You can also use the json data provided.
 
-### Html
+### Html ###
 
 ```markdown
 <select>
